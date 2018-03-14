@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankabut</title>
+    <description>ankabut is a webscraper which searches for files direct links aross the websites with ankabut download free movies , series , software , etc..
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Mar 2018 14:06:05 +0330</pubDate>
+    <lastBuildDate>Wed, 14 Mar 2018 14:06:05 +0330</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>ankabut web scraper</title>
+        <description>&lt;p&gt;Ankabut is web scraper which can find direct link of files in the internet .&lt;br /&gt;
+you can download movies, series, software, etc.. for free .&lt;br /&gt;
+&lt;a href=&quot;https://github.com/ankabutsc/ankabut/releases&quot;&gt;download installation files&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/ankabutsc/ankabut&quot;&gt;go to github repo&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ankabut_1.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/ankabut_2.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Mar 2018 13:31:33 +0330</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2018/03/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/03/14/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

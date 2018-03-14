@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ankabut
+email: 00riddler00@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+        ankabut is a webscraper which searches for files direct links aross the websites
+        with ankabut download free movies , series , software , etc..
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username: MrSmiler 
+
+# Build settings
+markdown: kramdown
